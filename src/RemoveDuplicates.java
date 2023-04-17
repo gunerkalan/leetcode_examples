@@ -7,6 +7,8 @@ public class RemoveDuplicates {
     public int removeDuplicates(int[] nums){
         int n = nums.length;
         int i = 0;
+
+        return i;
     }
 
 }
